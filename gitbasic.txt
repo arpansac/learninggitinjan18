@@ -1,5 +1,9 @@
 Hello Git
 
+<<<<<<< HEAD
 Hello Again git this is Arpan
 
 Hello Hello Again Again Git
+=======
+Hello Again git this is Alchemylsjadnlkajsdnclkajsndlaskdjn
+>>>>>>> my-feature
